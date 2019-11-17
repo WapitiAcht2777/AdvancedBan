@@ -11,6 +11,8 @@
 
     <modules>
         <module>common</module>
+        <module>bukkit</module>
+        <module>bungee</module>
     </modules>
 
     <properties>
